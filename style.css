@@ -1,0 +1,46 @@
+.div1{
+    /* background-color: red; */
+    text-align: center;
+}
+.header1{
+    /* background-color: green; */
+    text-align: center;
+}
+.section1{
+    /* background-color: purple; */
+    text-align: center;
+}
+.article1{
+    /* background-color: blue; */
+    text-align: center;
+}
+.footer1{
+    /* background-color: orange; */
+    text-align: center;
+}
+.nav1{
+    /* background-color: aqua; */
+    text-align: center;
+}
+h1,h2, body{
+    margin: 0px;
+}
+button{
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+img{
+    max-width: 100%;
+}
+.textsize{
+    font-size: 2rem;
+}
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 2rem;
+}
+a:hover{
+    color: brown;
+}
