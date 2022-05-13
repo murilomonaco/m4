@@ -1,25 +1,25 @@
 .div1{
-    /* background-color: red; */
+    background-color: red;
     text-align: center;
 }
 .header1{
-    /* background-color: green; */
+    background-color: green;
     text-align: center;
 }
 .section1{
-    /* background-color: purple; */
+    background-color: purple;
     text-align: center;
 }
 .article1{
-    /* background-color: blue; */
+    background-color: blue;
     text-align: center;
 }
 .footer1{
-    /* background-color: orange; */
+    background-color: orange;
     text-align: center;
 }
 .nav1{
-    /* background-color: aqua; */
+    background-color: aqua;
     text-align: center;
 }
 h1,h2, body{
